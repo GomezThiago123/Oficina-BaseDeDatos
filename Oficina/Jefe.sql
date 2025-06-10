@@ -1,0 +1,7 @@
+CREATE TABLE "Jefe" (
+	"Nombre"	VARCHAR(45) NOT NULL,
+	"Apellido"	VARCHAR(45) NOT NULL,
+	"jefe_id"	INTEGER NOT NULL,
+	"DNI"	INT NOT NULL,
+	PRIMARY KEY("jefe_id" AUTOINCREMENT)
+);
