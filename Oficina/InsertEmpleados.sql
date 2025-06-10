@@ -1,0 +1,5 @@
+INSERT INTO Empleados (Nombre, Apellido, Telefono, Puesto, DNI, Sueldo, Fecha_De_Integro, Genero) VALUES("Bautista","Moyano", 1123610617 ,"Coordinador de Proyectos", 48021023, 700000, "24-04-2018", "Masculino"),
+																										("Lautaro", "Fernandez", 1164059242, "Limpieza", 47280022, 350000, "29-01-2025", "Masculino"),
+                                                                                                        ("Julieta","Mendoza", 1123610617 ,"Recepcioista", 49012792, 700000, "11-09-2019", "Femenino"),
+                                                                                                        ("Briseida","Camacho", 1159387656,"Atencion al Cliente", 47254831, 600000, "06-05-2022", "Femenino")
+                                                                                                        
